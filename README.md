@@ -37,15 +37,20 @@ Apasionado por la automatización y la mejora continua de la infraestructura TI,
   <img src="https://img.shields.io/badge/Exchange%20Server-0078D4?style=flat-square&logo=microsoft-exchange&logoColor=white" alt="Exchange Server">
 </p>
 
-#### 💾 Almacenamiento & Redes
+#### 💾 Almacenamiento & Respaldo (Backups)
 <p align="left">
   <img src="https://img.shields.io/badge/Almacenamiento%20NAS%20%2F%20SAN-Storage-blue?style=flat-square&logo=databricks&logoColor=white" alt="NAS-SAN">
-  <img src="https://img.shields.io/badge/Cisco%20Networking-175BCC?style=flat-square&logo=cisco&logoColor=white" alt="Cisco">
+  <img src="https://img.shields.io/badge/Veeam%20Backup-00B294?style=flat-square&logo=veeam&logoColor=white" alt="Veeam">
+  <img src="https://img.shields.io/badge/Acronis-005493?style=flat-square&logo=acronis&logoColor=white" alt="Acronis">
+  <img src="https://img.shields.io/badge/Azure%20Backup-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Backup">
 </p>
 
 #### 🛡️ Monitoreo & Seguridad TI
 <p align="left">
-  <img src="https://img.shields.io/badge/Monitoreo%20TI-Grafana%20%2F%20Prometheus-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Monitoreo">
+  <img src="https://img.shields.io/badge/PRTG%20Network%20Monitor-00B294?style=flat-square&logo=itunes&logoColor=white" alt="PRTG">
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix">
+  <img src="https://img.shields.io/badge/SolarWinds-FF4500?style=flat-square&logo=solarwinds&logoColor=white" alt="SolarWinds">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
   <img src="https://img.shields.io/badge/Seguridad%20TI%20%2F%20Antispam-Secure-green?style=flat-square&logo=google-cloud-security&logoColor=white" alt="Seguridad TI">
 </p>
 
