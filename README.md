@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Sobre Mí
 
-Soy **Especialista en Infraestructura TI** con 7 años de experiencia en la gestión, implementación y administración de plataformas y servidores On-Premise y Cloud. Me considero un profesional orientado a la optimización de la infraestructura tecnológica y a la ejecución de proyectos de alta complejidad, aportando soluciones eficientes desde la planificación inicial hasta la puesta en producción y soporte posterior.
+Soy **Especialista en Infraestructura TI** con 7 años de experiencia en la gestión, implementación y administración de servidores On-Premise y Cloud. Me considero un profesional orientado a la optimización de la infraestructura tecnológica y a la ejecución de proyectos de alta complejidad, aportando soluciones eficientes desde la planificación inicial hasta la puesta en producción y soporte posterior.
 
 Apasionado por la automatización y la mejora continua de la infraestructura TI, buscando siempre contribuir con tecnologías eficientes y alineadas a los objetivos del negocio.
 
