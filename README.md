@@ -1,55 +1,51 @@
 # ¡Hola! Soy Especialista en Infraestructura TI 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Rol-Cloud%20%26%20Infrastructure%20Specialist-blue?style=for-the-badge&logo=cloud" alt="Rol">
-  <img src="https://img.shields.io/badge/Especialidad-DevOps%20%2F%20SysAdmin-orange?style=for-the-badge&logo=linux" alt="Especialidad">
+  <img src="https://img.shields.io/badge/Rol-Infrastructure%20%26%20Cloud%20Specialist-blue?style=for-the-badge&logo=microsoft-azure" alt="Rol">
+  <img src="https://img.shields.io/badge/Entorno-On--Premise%20%26%20Cloud-orange?style=for-the-badge&logo=linux" alt="Entorno">
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mí
 
-Soy **Especialista en Infraestructura TI** apasionado por la arquitectura de sistemas, la automatización, la alta disponibilidad y la seguridad de la información. Mi enfoque principal es diseñar, implementar y optimizar infraestructuras tecnológicas tanto On-Premise como en entornos Multi-Cloud para garantizar la continuidad del negocio y la escalabilidad de las plataformas.
+Soy **Especialista en Infraestructura TI** con amplia experiencia en el diseño, implementación y administración de entornos tecnológicos híbridos (On-Premise y Cloud). Mi enfoque principal está asociado a la gestión de plataformas en **Microsoft Azure**, administración de identidades con **Entra ID**, y la garantía de la continuidad del negocio mediante estrategias sólidas de respaldo, monitoreo y seguridad perimetral.
 
-- ⚙️ **¿En qué trabajo actualmente?** Automatizando despliegues, gestionando nubes públicas/privadas y diseñando arquitecturas resilientes.
-- 🚀 **Áreas de Experiencia:** Computación en la nube (Cloud Computing), Virtualización, DevOps (CI/CD), Redes y Seguridad.
-- 📖 **Aprendizaje Continuo:** Explorando nuevas tendencias en GitOps, Kubernetes Avanzado y FinOps para la optimización de costes cloud.
+- ⚙️ **¿En qué trabajo actualmente?** Gestión de servidores físicos y virtuales, administración de identidades, políticas de seguridad y protección de endpoints.
+- 🚀 **Áreas de Experiencia:** Servidores On-Premise/Cloud, Azure & Entra ID, Sistemas de Respaldo (Backups), Seguridad (Antispam/Antivirus) y MDM Multimarca.
+- 📖 **Aprendizaje Continuo:** Optimizando la gestión de dispositivos empresariales y actualizándome en las últimas directivas de seguridad cloud.
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Stack Tecnológico & Herramientas
 
-#### ☁️ Cloud & Virtualización
+#### ☁️ Cloud & Identidad (Microsoft Ecosystem)
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Entra ID">
+  <img src="https://img.shields.io/badge/Microsoft%20365-6C6C6C?style=flat-square&logo=microsoft-office&logoColor=white" alt="M365">
+</p>
+
+#### 🖥️ Servidores & Virtualización (On-Premise)
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows-server&logoColor=white" alt="Windows Server">
+  <img src="https://img.shields.io/badge/Linux%20%2F%20Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware">
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox">
 </p>
 
-#### ⚙️ DevOps & Automatización (IaC / CI-CD)
+#### 🛡️ Seguridad, Antispam & Antivirus
 <p align="left">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Antivirus%20%2F%20EDR-Shield-blue?style=flat-square&logo=google-cloud-security&logoColor=white" alt="Antivirus">
+  <img src="https://img.shields.io/badge/Email%20Security%20%2F%20Antispam-Secure-green?style=flat-square&logo=maildotru&logoColor=white" alt="Antispam">
+  <img src="https://img.shields.io/badge/Firewalls%20%26%20Networks-Cisco-175BCC?style=flat-square&logo=cisco&logoColor=white" alt="Redes">
 </p>
 
-#### 🐧 Sistemas Operativos & Redes
+#### 💾 Backups, Gestión MDM & Monitoreo
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux%20%2F%20Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHEL">
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Server">
-  <img src="https://img.shields.io/badge/Cisco-175BCC?style=flat-square&logo=cisco&logoColor=white" alt="Cisco">
-</p>
-
-#### 📊 Monitorización & Scripting
-<p align="left">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Backups%20%26%20Recovery-Veeam%20%2F%20Azure-00B294?style=flat-square&logo=databricks&logoColor=white" alt="Backups">
+  <img src="https://img.shields.io/badge/MDM%20Multimarca-Intune%20%2F%20Otros-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="MDM">
+  <img src="https://img.shields.io/badge/Monitoreo%20TI-Grafana%20%2F%20Prometheus-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Monitoreo">
 </p>
 
 ---
@@ -64,7 +60,7 @@ Soy **Especialista en Infraestructura TI** apasionado por la arquitectura de sis
 ---
 
 ### 🤝 Contacto y Red Profesional
-¡Conectemos para hablar de infraestructura, despliegues eficientes o nuevas tecnologías!
+¡Conectemos para hablar de gestión de infraestructura, soluciones cloud o seguridad informática!
 
 <p align="left">
   <a href="TU_LINK_DE_LINKEDIN_AQUI" target="_blank">
