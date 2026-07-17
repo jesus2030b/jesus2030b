@@ -50,7 +50,6 @@ Apasionado por la automatización y la mejora continua de la infraestructura TI,
   <img src="https://img.shields.io/badge/PRTG%20Network%20Monitor-00B294?style=flat-square&logo=itunes&logoColor=white" alt="PRTG">
   <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix">
   <img src="https://img.shields.io/badge/SolarWinds-FF4500?style=flat-square&logo=solarwinds&logoColor=white" alt="SolarWinds">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
   <img src="https://img.shields.io/badge/Seguridad%20TI%20%2F%20Antispam-Secure-green?style=flat-square&logo=google-cloud-security&logoColor=white" alt="Seguridad TI">
 </p>
 
